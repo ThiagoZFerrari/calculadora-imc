@@ -1,3 +1,5 @@
+🐍 Python Logic Projects (Projetos de Lógica Condicional)
+
 Este repositório contém uma série de projetos simples em Python desenvolvidos para solidificar os conceitos fundamentais de **Entrada/Saída de Dados (I/O)**, **Operações Aritméticas** e **Estruturas Condicionais (`if`, `elif`, `else`)**.
 
 Estes projetos marcam a conclusão da minha primeira fase de estudos em lógica de programação.
